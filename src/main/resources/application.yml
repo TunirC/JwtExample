@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: JwtExample
+
+
+server:
+  port: 8090
+
